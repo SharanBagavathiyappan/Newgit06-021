@@ -3,6 +3,7 @@ public class arthimetic{
         int a=10;
         int b=20;
         int x=a+b;
+        int z1=a*b;
         int y=a-b;
         int z=a/b;
         System.out.println("Sum of two numbers:"+x);
